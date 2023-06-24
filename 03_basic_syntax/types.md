@@ -10,8 +10,7 @@ Let's talk about Go's built in types.
 
 - Example: `var age int = 21`
 - `int`,`uint8`,`uint16`, `uint32`, `uint64`, `int8`, `int16`, `int32`, `int64`
-- How specific you get depends on what type of processor you are working with (won't get into that
-  now)
+- How specific you get depends on what type of processor you are working with (won't get into that now)
 - The `u` indicates an "unsigned" integer, which can only contain positive numbers or zero
 - `byte`: alias for `uint8`
 - `rune`: alias for `int32`
@@ -32,7 +31,7 @@ Let's talk about Go's built in types.
   - `fmt.Println(string(name[0]))`
 - Similar to `substr` in JS, you can grab a substring of a string using
   `name[1:3]` ==> `"ar"`
-  - This tells Go to start BEFORE index 1, and stop BEFORE index 3.
+  - This tells Go to start FROM index 1, and stop BEFORE index 3.
 
 ## Booleans: `true`, `false`
 

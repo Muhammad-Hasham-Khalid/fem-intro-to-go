@@ -24,5 +24,4 @@
 
 _Hint_: You might need to convert a type to get the output you expect
 
-_Hint_: The modulo operator in Go functions similarly to
-JavaScript.
+_Hint_: The modulo operator in Go functions similarly to JavaScript.

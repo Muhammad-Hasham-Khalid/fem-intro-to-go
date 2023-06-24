@@ -27,7 +27,7 @@ import "fmt" // 2
 
 func main() { //3
   // Code to execute lives here
-  fmt.Println("Hello Front End Masters!"
+  fmt.Println("Hello Front End Masters!");
 } // 5
 ```
 
